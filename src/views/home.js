@@ -72,7 +72,7 @@ const Home = (props) => {
               >
                 <img
                   alt="image"
-                  src="/playground_assets/twitter-logo-200h.png"
+                  src="/twitter-logo-200h.png"
                   className="home-image"
                 />
               </a>
@@ -84,7 +84,7 @@ const Home = (props) => {
               >
                 <img
                   alt="image"
-                  src="/playground_assets/opensea-logo-7de9d85d62-seeklogo.com-1500h.png"
+                  src="/opensea-logo-7de9d85d62-seeklogo.com-1500h.png"
                   className="home-image01"
                 />
               </a>
@@ -96,7 +96,7 @@ const Home = (props) => {
               >
                 <img
                   alt="image"
-                  src="/playground_assets/discord-logo-600w.png"
+                  src="/discord-logo-600w.png"
                   className="home-image02"
                 />
               </a>
@@ -106,25 +106,25 @@ const Home = (props) => {
       </div>
       <img
         alt="image"
-        src="/playground_assets/symbo-1500h.gif"
+        src="/symbo-1500h.gif"
         className="home-image03"
       />
       <section className="home-features">
         <FeatureCard
           text="Full rights to the NFT holder"
           title="Commercial rights"
-          image_src="/playground_assets/cube1.svg"
+          image_src="/cube1.svg"
         ></FeatureCard>
-        <FeatureCard image_src="/playground_assets/person1.svg"></FeatureCard>
+        <FeatureCard image_src="/person1.svg"></FeatureCard>
         <FeatureCard
           text="Early Access 0.049 ETH mints"
           title="0.069ETH"
-          image_src="/playground_assets/rocket1.svg"
+          image_src="/rocket1.svg"
         ></FeatureCard>
         <FeatureCard
           text="Symbiotes"
           title="4200"
-          image_src="/playground_assets/credit%20card1.svg"
+          image_src="/credit%20card1.svg"
         ></FeatureCard>
       </section>
       <section className="home-container05">
@@ -140,7 +140,7 @@ const Home = (props) => {
           <div className="home-container08">
             <img
               alt="image"
-              src="/playground_assets/nom%20nom%20laptab%20%5B2%5D-1100w.png"
+              src="/nom%20nom%20laptab%20%5B2%5D-1100w.png"
               className="home-image04"
             />
             <span className="home-text10 small">
@@ -153,32 +153,32 @@ const Home = (props) => {
             <div className="home-container09">
               <img
                 alt="image"
-                src="/playground_assets/candy-bar-aluminum-packaging-mockup_170704-199%20%5B3%5D-1000w.png"
+                src="/candy-bar-aluminum-packaging-mockup_170704-199%20%5B3%5D-1000w.png"
                 className="home-image05"
               />
               <img
                 alt="image"
-                src="/playground_assets/candy-bar-aluminum-packaging-mockup_170704-199%20%5B2%5D-1000w.png"
+                src="/candy-bar-aluminum-packaging-mockup_170704-199%20%5B2%5D-1000w.png"
                 className="home-image06"
               />
               <img
                 alt="image"
-                src="/playground_assets/free_men_underwear_mockup_1%20%5B3%5D-1000w.png"
+                src="/free_men_underwear_mockup_1%20%5B3%5D-1000w.png"
                 className="home-image07"
               />
               <img
                 alt="image"
-                src="/playground_assets/hoodie_mockup%20%5B3%5D-1000w.png"
+                src="/hoodie_mockup%20%5B3%5D-1000w.png"
                 className="home-image08"
               />
               <img
                 alt="image"
-                src="/playground_assets/candy-bar-aluminum-packaging-mockup_170704-199%20%5B1%5D-1000w.png"
+                src="/candy-bar-aluminum-packaging-mockup_170704-199%20%5B1%5D-1000w.png"
                 className="home-image09"
               />
               <img
                 alt="image"
-                src="/playground_assets/superbowl%2069-1000w.png"
+                src="/superbowl%2069-1000w.png"
                 className="home-image10"
               />
             </div>
@@ -186,7 +186,7 @@ const Home = (props) => {
           <div className="home-container10">
             <img
               alt="image"
-              src="/playground_assets/flightmap-1100w.png"
+              src="/flightmap-1100w.png"
               className="home-image11"
             />
             <div className="home-container11">
@@ -334,13 +334,13 @@ const Home = (props) => {
       </section>
       <section className="home-testimonials">
         <AppComponent
-          image_src="/playground_assets/fpof3kqvkb0clu7-200h.png"
-          image_src1="/playground_assets/ffoumcvxoa4gm-j-200h.jpg"
-          image_src2="/playground_assets/unnamed%20-%202022-03-25t141527.964-200h.png"
-          image_src3="/playground_assets/download%20%5B16%5D-200h.png"
-          image_src5="/playground_assets/download%20%5B36%5D-200h.png"
-          image_src6="/playground_assets/ffyxwmewuaqorej-200h.jpg"
-          image_src7="/playground_assets/fl0zo9sxwaawzag-200h.jpg"
+          image_src="/fpof3kqvkb0clu7-200h.png"
+          image_src1="/ffoumcvxoa4gm-j-200h.jpg"
+          image_src2="/unnamed%20-%202022-03-25t141527.964-200h.png"
+          image_src3="/download%20%5B16%5D-200h.png"
+          image_src5="/download%20%5B36%5D-200h.png"
+          image_src6="/ffyxwmewuaqorej-200h.jpg"
+          image_src7="/fl0zo9sxwaawzag-200h.jpg"
         ></AppComponent>
         <div className="home-blog">
           <div className="home-banner">
@@ -369,7 +369,7 @@ const Home = (props) => {
             >
               <BlogPostCard2
                 title="QuackMaster69"
-                image_src="/playground_assets/8e838332-5c0c-49f1-9763-8e90474189f2-1500w.jpg"
+                image_src="/8e838332-5c0c-49f1-9763-8e90474189f2-1500w.jpg"
                 description="The marketing maestro. or at least that's how he refers to himself."
                 profile_src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDExfHxwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTYyNjQ1MDU4MQ&amp;ixlib=rb-1.2.1&amp;h=1200"
                 rootClassName="rootClassName"
@@ -385,7 +385,7 @@ const Home = (props) => {
           >
             <BlogPostCard2
               title="SirSwimsALot"
-              image_src="/playground_assets/shkary%20sharks%208437-1500w.png"
+              image_src="/shkary%20sharks%208437-1500w.png"
               description="The coder &amp; blockchain brains of the site, backend &amp; frontend. 🇮🇳"
               profile_src="https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDE0fHxwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTYyNjQ1MDU4MQ&amp;ixlib=rb-1.2.1&amp;h=1200"
               rootClassName="rootClassName2"
@@ -399,7 +399,7 @@ const Home = (props) => {
               <div className="home-container16">
                 <img
                   alt="image"
-                  src="/playground_assets/unnamed%20-%202022-04-18t170819.106-1500w.png"
+                  src="/unnamed%20-%202022-04-18t170819.106-1500w.png"
                   image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
                   className="home-image12"
                 />
@@ -420,12 +420,12 @@ const Home = (props) => {
         </div>
         <img
           alt="image"
-          src="/playground_assets/bottom.svg"
+          src="/bottom.svg"
           className="home-bottom-wave-image"
         />
         <img
           alt="image"
-          src="/playground_assets/top.svg"
+          src="/top.svg"
           className="home-top-wave-image"
         />
       </section>
